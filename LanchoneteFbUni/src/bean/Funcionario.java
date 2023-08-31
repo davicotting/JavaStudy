@@ -1,3 +1,5 @@
+package bean;
+
 public class Funcionario {
 
     String nome;
