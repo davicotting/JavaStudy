@@ -7,12 +7,16 @@ public class Funcionario {
     int salario;
 
     public void vender(){
+        
+        atender();
 
     }
     public void baterPonto(){
 
     }
-    public void atender(){
+    private void atender(){
+        
+        vender();
 
     }
 
